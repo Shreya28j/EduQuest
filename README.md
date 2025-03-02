@@ -24,7 +24,7 @@ EduQuest is an online examination platform that simplifies test-taking, result c
 
 ## Video Example 
 
-https://drive.google.com/file/d/1Ci0VKS-EmO73-wT1x7Ta-NmOHKCs1rso/view?usp=drive_link
+https://drive.google.com/file/d/1Ci0VKS-EmO73-wT1x7Ta-NmOHKCs1rso/view?usp=sharing
 
 ## Photo Glimpses
 
