@@ -23,8 +23,18 @@ EduQuest is an online examination platform that simplifies test-taking, result c
 - EduQuest provides insights into candidate performance.
 
 ## Video Example 
+
 https://drive.google.com/file/d/1Ci0VKS-EmO73-wT1x7Ta-NmOHKCs1rso/view?usp=drive_link
-![Image](https://github.com/user-attachments/assets/0ec8fb4c-a353-4f84-bbeb-06929a9f2554)
+
+## Photo Glimpses
+
+![Image](https://github.com/user-attachments/assets/727c92b2-8273-4137-8c5e-c878480bc8da)
+
+![Image](https://github.com/user-attachments/assets/11f1653c-350a-4047-bf5d-e78d85f4105d)
+
+![Image](https://github.com/user-attachments/assets/b2bb1ef0-a6e7-4a91-9c67-21441375df69)
+
+
 
 ## Contact
 For any questions or feedback, feel free to reach out at [28shreya2003@gmail.com](28shreya2003@gmail.com).
