@@ -1,24 +1,32 @@
-# EduQuest
+# EduQuest: Virtual Examination Portal
 
-Welcome to **EduQuest**!
+Welcome to **EduQuest: Virtual Examination Portal**!
 
-**EduQuest** is a web project focused on creating a seamless and interactive learning experience. Our goal is to provide educational content in a user-friendly and visually appealing manner.
+**EduQuest: Virtual Examination Portalt** provides a seamless experience for both teachers and students, offering a platform for 
+creating, conducting, and evaluating online exams with automated result calculation. 
+EduQuest is an online examination platform that simplifies test-taking, result calculation, and management.
 
 ## Features
-- Interactive content
-- User-friendly interface
-- Responsive design
+### Admin Features
+- Admins can register, log in, and manage the examination process.
+
+### Exam Paper Upload
+- Admins can create and upload multiple-choice question papers.
+
+### Candidate Exam Participation
+- Candidates can register, log in, and take exams easily.
+
+### Automated Result Calculation
+- Results are calculated and displayed automatically.
+
+### Performance Analysis
+- EduQuest provides insights into candidate performance.
 
 ## Video Example 
 https://drive.google.com/file/d/1Ci0VKS-EmO73-wT1x7Ta-NmOHKCs1rso/view?usp=drive_link
 
-## Getting Started
-To get started with EduQuest, clone the repository and follow the installation instructions.
-
-## Contributing
-If you’d like to contribute, please follow the [contributing guidelines](link-to-contributing-guidelines).
-
 ## Contact
-For any questions or feedback, feel free to reach out at [your-email@example.com](28shreya2003@gmail.com).
+For any questions or feedback, feel free to reach out at [28shreya2003@gmail.com](28shreya2003@gmail.com).
+
 
 Happy learning!
