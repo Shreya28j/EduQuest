@@ -9,6 +9,8 @@ Welcome to **EduQuest**!
 - User-friendly interface
 - Responsive design
 
+## Video Example 
+https://drive.google.com/file/d/1Ci0VKS-EmO73-wT1x7Ta-NmOHKCs1rso/view?usp=drive_link
 ## Getting Started
 To get started with EduQuest, clone the repository and follow the installation instructions.
 
@@ -16,6 +18,6 @@ To get started with EduQuest, clone the repository and follow the installation i
 If you’d like to contribute, please follow the [contributing guidelines](link-to-contributing-guidelines).
 
 ## Contact
-For any questions or feedback, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach out at [your-email@example.com](28shreya2003@gmail.com).
 
 Happy learning!
